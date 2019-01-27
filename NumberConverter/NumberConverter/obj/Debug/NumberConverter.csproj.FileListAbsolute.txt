@@ -1,0 +1,10 @@
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\bin\Debug\NumberConverter.exe.config
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\bin\Debug\NumberConverter.exe
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\bin\Debug\NumberConverter.pdb
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Debug\NumberConverter.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Debug\NumberConverter.Form1.resources
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Debug\NumberConverter.Properties.Resources.resources
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Debug\NumberConverter.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Debug\NumberConverter.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Debug\NumberConverter.exe
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Debug\NumberConverter.pdb

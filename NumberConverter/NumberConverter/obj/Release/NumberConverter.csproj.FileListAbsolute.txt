@@ -1,0 +1,9 @@
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\bin\Release\NumberConverter.exe.config
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\bin\Release\NumberConverter.exe
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\bin\Release\NumberConverter.pdb
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Release\NumberConverter.Form1.resources
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Release\NumberConverter.Properties.Resources.resources
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Release\NumberConverter.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Release\NumberConverter.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Release\NumberConverter.exe
+C:\Users\Michael\Desktop\NumberConverter\NumberConverter\obj\Release\NumberConverter.pdb
